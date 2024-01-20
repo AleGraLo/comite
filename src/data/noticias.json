@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "titulo": "Noticia 1",
+      "subtitulo": "Subtítulo de Noticia 1",
+      "texto": "Texto de Noticia 1...",
+      "textoCompleto": "Texto completo de la Noticia 1..."
+    },
+    {
+      "id": 2,
+      "titulo": "Noticia 2",
+      "subtitulo": "Subtítulo de Noticia 2",
+      "texto": "Texto de Noticia 2...",
+      "textoCompleto": "Texto completo de la Noticia 2..."
+    }
+  ]
+  
+
+  
+  
+  
+  
