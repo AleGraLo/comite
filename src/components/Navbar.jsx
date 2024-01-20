@@ -1,44 +1,30 @@
 import React from "react";
-import {Link} from 'react-router-dom';
+import { LinkContainer } from 'react-router-bootstrap';
+import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
-const Navbar = () => {
+const NavbarComponent = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-      <Link className="navbar-brand" to="/">
-        Comite Bidafarma Málaga
-      </Link>
-      <button
-        className="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarNav"
-        aria-controls="navbarNav"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span className="navbar-toggler-icon"></span>
-      </button>
-      <div className="collapse navbar-collapse" id="navbarNav">
-        <ul className="navbar-nav">
-          <li className="nav-item active">
-            < Link className="nav-link" to="/noticias">
-              Noticias <span className="sr-only"></span>
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link className="nav-link" to="/documentacion">
-              Documentación
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link className="nav-link" to="/sobre-nosotros">
-              Sobre nosotros
-            </Link>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <Navbar bg="light" expand="lg" fixed="top">
+      <LinkContainer to="/">
+        <Navbar.Brand>Comite Bidafarma Málaga</Navbar.Brand>
+      </LinkContainer>
+      <Navbar.Toggle aria-controls="basic-navbar-nav" />
+      <Navbar.Collapse id="basic-navbar-nav">
+        <Nav className="mr-auto">
+          <LinkContainer to="/noticias">
+            <Nav.Link>Noticias</Nav.Link>
+          </LinkContainer>
+          <LinkContainer to="/documentacion">
+            <Nav.Link>Documentación</Nav.Link>
+          </LinkContainer>
+          <LinkContainer to="/sobre-nosotros">
+            <Nav.Link>Sobre Nosotros</Nav.Link>
+          </LinkContainer>
+        </Nav>
+      </Navbar.Collapse>
+    </Navbar>
   );
 };
 
-export default Navbar;
+export default NavbarComponent;
+

@@ -1,19 +1,21 @@
 [
     {
-      "id": 1,
-      "titulo": "Noticia 1",
-      "subtitulo": "Subtítulo de Noticia 1",
-      "texto": "Texto de Noticia 1...",
-      "textoCompleto": "Texto completo de la Noticia 1..."
-    },
+        "id": 2,
+        "titulo": "Convocatoria a la Asamblea General",
+        "subtitulo": "Un Encuentro Clave para el Futuro de Bidafarma",
+        "texto": "Anunciamos la próxima Asamblea General del comité de empresa el 19 de enero de 2024, con sesiones en dos turnos.",
+        "textoCompleto": "Nos complace convocar a todos los miembros de Bidafarma a la Asamblea General que se celebrará el 19 de enero de 2024. Tendremos dos turnos para facilitar la asistencia: por la mañana de 9:00 a 9:30 y por la tarde de 16:30 a 17:00. En esta reunión, presentaremos al nuevo comité y discutiremos propuestas importantes, incluyendo la normativa de guardias y turnos para el año 2024. Es una oportunidad valiosa para involucrarse y contribuir en las decisiones que afectan nuestro entorno laboral. Esperamos contar con su activa participación."
+      },
+  
     {
-      "id": 2,
-      "titulo": "Noticia 2",
-      "subtitulo": "Subtítulo de Noticia 2",
-      "texto": "Texto de Noticia 2...",
-      "textoCompleto": "Texto completo de la Noticia 2..."
+      "id": 1,
+      "titulo": "Bienvenida a Nuestra Nueva Página Web",
+      "subtitulo": "Un Nuevo Horizonte en la Comunicación del Comité Bidafarma Málaga",
+      "texto": "Nos complace anunciar la inauguración de nuestra página web, una herramienta que marca un hito en nuestra comunicación interna.",
+      "textoCompleto": "Querido equipo de Bidafarma, es un placer darles la bienvenida a la nueva página web del comité de empresa. Este proyecto, creado con gran esfuerzo e ilusión, representa un significativo avance en nuestra comunicación interna. Aunque aún está en su fase inicial, estamos comprometidos a implementar mejoras continuas. En esta página, encontrarán las últimas noticias, legislación relevante y documentación importante del centro, incluyendo la normativa de guardias, el convenio sectorial y el Estatuto de los Trabajadores. Este nuevo canal se suma a nuestro tradicional tablón de anuncios, brindando una forma más accesible y dinámica de mantenerse informados."
     }
   ]
+  
   
 
   
