@@ -1,23 +1,22 @@
-// HomePage.jsx
 import React from 'react';
-import '../CSS/style.css'; 
+import '../CSS/style.css'; // Asegúrate de que tienes los estilos adecuados
+import workersImage from '../assets/DALL·E 2024-01-21 13.08.39 - A graphic design style image featuring a variety of workers in different environments. There are warehouse workers wearing gray overalls or shirts wit.png';
 
 function HomePage() {
   return (
-    <div>
-      {/* Banner Principal */}
+    <div className="homepage">
       <section className="banner">
-        <div className="banner-content">
-          <h1>¡Bienvenidos al Comité de Empresa!</h1>
-          <p>"Unidos para un mejor entorno laboral"</p>
-          {/* Agrega aquí un botón de CTA si lo necesitas */}
-        </div>
+        <h1 className="heading-primary">Bienvenidos al Comité de Bidafarma Málaga</h1>
+        <img src={workersImage} alt="Trabajadores" className="workers-image" />
       </section>
-
-      {/* Otros segmentos de la página de inicio */}
-      {/* ... */}
+      <section className="content">
+        <h2 className="heading-secondary">Nuestra Misión</h2>
+        <p>En Comité Bidafarma Málaga, trabajamos juntos para mejorar nuestro entorno laboral y apoyar a cada uno de nuestros compañeros.</p>
+      </section>
+      {/* Añade más secciones según sea necesario */}
     </div>
   );
 }
 
 export default HomePage;
+

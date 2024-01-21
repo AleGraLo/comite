@@ -1,26 +1,28 @@
-/* HomePage.css */
-.banner {
-    background-image: url('ruta/a/tu/imagen.jpg'); /* Cambia con la imagen que desees */
-    background-size: cover;
-    background-position: center;
-    height: 300px; /* Ajusta según tus necesidades */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white; /* Asegúrate de que el color del texto contraste con tu imagen */
-  }
-  
-  .banner-content {
-    text-align: center;
-  }
-  
-  .banner h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
-  
-  .banner p {
-    font-size: 1.2rem;
-  }
-  
-  
+ .navbar , .footer {
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+ }
+
+.navbar {
+  top: 0;
+}
+
+.footer{
+  bottom: 0;
+}
+
+.homepage {
+  padding-top:60px ;
+  padding-bottom: 60px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.background-image {
+  background-size: cover;
+  background-position: center;
+}
