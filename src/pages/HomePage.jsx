@@ -5,8 +5,8 @@ function HomePage() {
   return (
     <div className="homepage">
       <section className='container'>
-        <h1 className="heading-primary ">Bienvenidos al Comité de Bidafarma Málaga</h1>
-        <h3 className="heading-secondary">Nuestra Misión: trabajar juntos para mejorar nuestro entorno laboral y apoyar a cada uno de nuestros compañeros.</h3>
+        <h1 className="heading-primary ">Bienvenidas y Bienvenidos al Comité de Bidafarma Málaga</h1>
+        <h3 className="heading-secondary">"Nuestra Misión: trabajar en conjunto para mejorar nuestro entorno laboral y apoyar a cada una y cada uno de nuestros compañeros y compañeras."</h3>
       </section>
       <section>
 
