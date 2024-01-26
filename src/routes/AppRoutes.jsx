@@ -4,7 +4,8 @@ import DetalleNoticia from '../components/DetalleNoticia';
 import Documentacion from '../pages/Documentacion';
 import DetalleDocumento from '../components/DetalleDocumento';
 import SobreNosotros from '../pages/SobreNosotros';
-import HomePage from '../pages/HomePage'; // Asumiendo que tienes un componente para la página de inicio
+import HomePage from '../pages/HomePage'; 
+import Tablon from '../pages/Tablon'
 
 function AppRoutes() {
   return (
@@ -14,6 +15,8 @@ function AppRoutes() {
       <Route path="/noticias/:id" element={<DetalleNoticia />} />
       <Route path="/documentacion" element={<Documentacion />} />
       <Route path="/documentacion/:id" element={<DetalleDocumento/>} />
+      <Route path="/tablon" element={<Tablon />} />
+
       <Route path="/sobre-nosotros" element={<SobreNosotros />} />
       {/* ... otras rutas ... */}
     </Routes>

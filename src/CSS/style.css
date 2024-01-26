@@ -12,13 +12,48 @@
   bottom: 0;
 }
 
+.container {
+  padding-top: 70px; /* Ajusta esto al tamaño de tu navbar */
+  padding-bottom: 70px; /* Ajusta esto al tamaño de tu footer */
+  /* Otros estilos si son necesarios */
+}
+
+.card {
+  position: relative;
+  min-height: 300px; /* Altura mínima */
+  max-height: 400px;
+  overflow: auto; /* Oculta el contenido que exceda la altura máxima */
+  margin: 3px; 
+  opacity: 90%;
+}
+.card-title{
+  min-height: 100px;
+  background-color: chartreuse;
+  padding: 3%;
+  opacity: 95%;
+  align-items: center;
+  text-align: justify;
+  text-align: center;
+}
+
+.card-detalle {
+  background-color: white;
+  min-height: 600px; /* Altura mínima */
+  overflow: auto; /* Oculta el contenido que exceda la altura máxima */
+  margin: 3px; 
+  opacity: 90%;
+  padding: 10px;
+  border-radius: 3%;
+}
+
 .banner {
   position: relative; /* Esto es necesario para el posicionamiento absoluto de los hijos */
   background-image: url('../assets/DALL·E 2024-01-21 13.08.39 - A graphic design style image featuring a variety of workers in different environments. There are warehouse workers wearing gray overalls or shirts wit.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  height: 100vh; 
+  height: auto; 
+  min-height: 100vh;
   width: 100vw;
   display: flex;
   flex-direction: column; /* Organiza los hijos en una columna */
@@ -27,33 +62,33 @@
 }
 
 .heading-primary {
-  color: white; /* Asegúrate de que el texto sea legible sobre el fondo */
-  margin: 0 0 20px 0; /* Añade un margen inferior para separar del h2 */
+  color: lightslategray; /* Asegúrate de que el texto sea legible sobre el fondo */
+  margin: 0px 0 20px 0; /* Añade un margen inferior para separar del h2 */
   z-index: 2;
+  background-color: chartreuse ;
+  opacity: 95%;
+  border-radius: 10%;
+  padding: 10px;
+  text-align: center;
 }
 
 .heading-secondary {
-  color: white; /* Asegúrate de que el texto sea legible sobre el fondo */
+  color: lightslategray; /* Asegúrate de que el texto sea legible sobre el fondo */
   margin: 0 0 20px 0; /* Añade un margen inferior para separar del párrafo */
   z-index: 2;
+  background-color: chartreuse ;
+  border-radius: 10%;
+  padding: 10px;
+  text-align: center;
 }
 
-p {
-  color: white; /* Asegúrate de que el texto sea legible sobre el fondo */
-  width: 80%; /* O un ancho específico si prefieres */
-  text-align: center; /* Centra el texto si es necesario */
-  z-index: 2;
-}
-
-/* Estilo opcional para el degradado sobre la imagen de fondo */
-.banner:before {
-  content: '';
+.fecha-publicacion {
   position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background: linear-gradient(rgba(80, 200, 120, 0.5), rgba(0, 49, 83, 0.5));
-  z-index: 1;
+  bottom: 10px; /* Ajusta según tus necesidades */
+  right: 10px; /* Ajusta según tus necesidades */
+  font-size: 0.8em; /* Tamaño de la fuente más pequeño */
+  color: #666; /* Color de tu elección */
 }
+
+
 

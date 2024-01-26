@@ -8,7 +8,7 @@ const Footer = () => {
         style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
       >
         © {new Date().getFullYear()}
-          Rt.malaga@bidafarma.es
+          -Rt.malaga@bidafarma.es
         <a className="text-dark" href="https://mi-comite.com/">
           {" "}
           mi-comite.com

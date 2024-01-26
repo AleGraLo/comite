@@ -1,9 +1,31 @@
-import React from 'react'
+import React from 'react';
+import datosEquipo from '../data/equipo.json'; // Ajusta la ruta según la estructura de tu proyecto
+import '../CSS/style.css'
 
-function Sobrenosotros() {
+function SobreNosotros() {
   return (
-    <div>Sobrenosotros</div>
-  )
+    <div className='container'>
+
+      <section className="card-title ">
+        <h2>Nuestro Equipo</h2>
+        <div className="card">
+          {datosEquipo.map(miembro => (
+            <div key={miembro.id} className="miembro-equipo">
+              <img src={miembro.foto} alt={`Foto de ${miembro.nombre}`} />
+              <h3>{miembro.nombre}</h3>
+              <p>{miembro.rol}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Contacto o Llamada a la Acción */}
+      <section className="card-title">
+        <h2>Contáctanos</h2>
+        <p>Rt.malaga@bidafarma.es</p>
+      </section>
+    </div>
+  );
 }
 
-export default Sobrenosotros
+export default SobreNosotros;

@@ -1,6 +1,6 @@
 import React from "react";
-import { LinkContainer } from 'react-router-bootstrap';
-import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
+import { LinkContainer } from "react-router-bootstrap";
+import { Navbar, Nav, NavDropdown } from "react-bootstrap";
 
 const NavbarComponent = () => {
   return (
@@ -17,6 +17,9 @@ const NavbarComponent = () => {
           <LinkContainer to="/documentacion">
             <Nav.Link>Documentación</Nav.Link>
           </LinkContainer>
+          {/* <LinkContainer to="/tablon">
+            <Nav.Link>Tablón</Nav.Link>
+          </LinkContainer> */}
           <LinkContainer to="/sobre-nosotros">
             <Nav.Link>Sobre Nosotros</Nav.Link>
           </LinkContainer>
@@ -27,4 +30,3 @@ const NavbarComponent = () => {
 };
 
 export default NavbarComponent;
-

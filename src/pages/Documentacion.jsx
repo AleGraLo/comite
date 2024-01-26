@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import CardDocumento from '../components/CardDocumento';
 import documentosData from '../data/documentos.json'
+import '../CSS/style.css'; 
+
 
 function Documentacion() {
   const [documentos, setDocumentos]= useState([]);

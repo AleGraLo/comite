@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "nombre": "Isaac Garcia Torres",
+      "rol": "Presidente",
+      "foto": "url-a-la-foto-de-juan.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Antonio David Sanmartin Muriel",
+      "rol": "Secretario",
+      "foto": "url-a-la-foto-de-ana.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Antonio Perez Laborda",
+      "rol": "Delegado de Salud Laboral",
+      "foto": "url-a-la-foto-de-carlos.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Alejandra Granado López",
+      "rol": "Delegada de Salud Laboral",
+      "foto": "url-a-la-foto-de-lucia.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Alejandro Fernandez Rodriguez",
+      "rol": "Delegado de Salud Laboral",
+      "foto": "url-a-la-foto-de-david.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Cristina Hirschfeld Fabregas",
+      "rol": "Comité de empresa.",
+      "foto": "url-a-la-foto-de-sara.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Manuel Castilla Fernandez Fabregas",
+      "rol": "Comité de empresa.",
+      "foto": "url-a-la-foto-de-miguel.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Daniel Ruiz Rueda",
+      "rol": "Comité de empresa.",
+      "foto": "url-a-la-foto-de-elena.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Francisco Fernandez Prados",
+      "rol": "Comité de empresa.",
+      "foto": "url-a-la-foto-de-oscar.jpg"
+    }
+  ]
+  
