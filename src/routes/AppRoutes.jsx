@@ -3,9 +3,9 @@ import Noticias from '../pages/Noticias';
 import DetalleNoticia from '../components/DetalleNoticia';
 import Documentacion from '../pages/Documentacion';
 import DetalleDocumento from '../components/DetalleDocumento';
-import SobreNosotros from '../pages/SobreNosotros';
+import SobreNosotros from '../pages/Sobrenosotros';
 import HomePage from '../pages/HomePage'; 
-import Tablon from '../pages/Tablon'
+// import Tablon from '../pages/Tablon'
 
 function AppRoutes() {
   return (
@@ -15,7 +15,7 @@ function AppRoutes() {
       <Route path="/noticias/:id" element={<DetalleNoticia />} />
       <Route path="/documentacion" element={<Documentacion />} />
       <Route path="/documentacion/:id" element={<DetalleDocumento/>} />
-      <Route path="/tablon" element={<Tablon />} />
+      {/* <Route path="/tablon" element={<Tablon />} /> */}
 
       <Route path="/sobre-nosotros" element={<SobreNosotros />} />
       {/* ... otras rutas ... */}
