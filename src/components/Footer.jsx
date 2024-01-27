@@ -9,9 +9,9 @@ const Footer = () => {
       >
         © {new Date().getFullYear()}
           -Rt.malaga@bidafarma.es
-        <a className="text-dark" href="https://mi-comite.com/">
+        <a className="text-dark" href="https://comitebidafarmamlg.netlify.app/">
           {" "}
-          mi-comite.com
+          comitebidafarmamlg.netlify.app
         </a>
       </div>
     </footer>
