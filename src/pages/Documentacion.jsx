@@ -18,6 +18,7 @@ function Documentacion() {
         key={doc.id}
         titulo={doc.titulo}
         resumen={doc.resumen}
+        contenido={doc.contenido}
         url={doc.url}
         />
       ))}

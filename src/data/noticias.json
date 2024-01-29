@@ -1,12 +1,42 @@
-[
+[  {
+  "id": 7,
+  "titulo": "Calendario Oficial Vacaciones Operaciones 2024",
+  "subtitulo": "Gestión de Vacaciones para el Departamento de Operaciones",
+  "textoCompleto": "El Calendario Oficial de Vacaciones Operaciones 2024 es una herramienta indispensable para la planificación y gestión de las vacaciones del personal del departamento de operaciones. Este calendario asegura una organización eficiente y equitativa del tiempo de descanso, contribuyendo a una mejor planificación de los recursos y necesidades de la empresa durante el año 2024.",
+  "fechaPublicacion": "29/01/2024"
+},
+{
+  "id": 6,
+  "titulo": "Turnos guardias",
+  "subtitulo": "Descripción Detallada de Turnos de Guardia",
+  "textoCompleto": "El documento 'Turnos guardias' ofrece una visión completa y organizada de los turnos de guardia, incluyendo horarios y modalidades. Esta información es vital para asegurar una comprensión clara y una gestión eficaz de los turnos de guardia en la empresa, proporcionando a todos los implicados un marco de referencia claro.",
+  "fechaPublicacion": "29/01/2024"
+},
+{
+  "id": 5,
+  "titulo": "Plantillas de Guardias 2024",
+  "subtitulo": "Estructura Organizativa de Guardias para 2024",
+  "textoCompleto": "Las Plantillas de Guardias 2024 proporcionan un formato detallado y estructurado para la asignación y seguimiento de las guardias durante el año. Este documento es esencial para mantener una gestión clara y eficiente de las guardias en la empresa, permitiendo una planificación organizada y transparente.",
+  "fechaPublicacion": "29/01/2024"
+},
+  {
+    "id": 4,
+    "titulo": "Calendario Oficial días sueltos 2024",
+    "subtitulo": "Planificación de Días Sueltos para el Año 2024",
+    "textoCompleto": "El Calendario Oficial de días sueltos 2024 es una herramienta crucial para la gestión y asignación de días sueltos en el año 2024. Este calendario facilitará la organización y planificación de los días de trabajo y descanso, asegurando una distribución equitativa y clara de los días no laborables.",
+    "fechaPublicacion": "29/01/2024"
+  },
+
+
+
+
   {
     "id": 3,
-    "titulo": "PROXIMAMENTE",
-    "subtitulo": "PROXIMAMENTE",
-    "textoCompleto": "PROXIMAMENTE.",
-    "fechaPublicacion": ""
-
-  },
+    "titulo": "ACLARACIÓN NORMAS GUARDIA BIDAFARMA-MÁLAGA 2024",
+    "subtitulo": "Normativas Establecidas y Acordadas en Asamblea",
+    "textoCompleto": "El documento ACLARACIÓN NORMAS GUARDIA Bidafarma-Málaga 2024 especifica detalladamente las reglas y procedimientos para las guardias en Bidafarma-Málaga para el año 2024. Incluye normativas rigurosas sobre la bolsa de guardia, estipulando que los trabajadores en la bolsa no pueden abandonarla hasta completar el ciclo y que los cambios de guardia asignados por bolsa no son permitidos, aunque se pueden ajustar los horarios. En cuanto a las vacaciones, se prohíbe realizar guardias durante este período, y cualquier cambio debe ser solicitado y aprobado con antelación. Para los trabajadores en baja, la suplencia se cubrirá desde la bolsa y no se permiten cambios de guardia durante este tiempo. Se establecen normativas específicas para los festivos y fines de semana, prohibiendo los cambios de guardia en festivos, pero permitiendo intercambios en los fines de semana manteniendo el mismo número de horas. Las guardias se publicarán con 10 días de anticipación, y los cambios son posibles hasta 8 días antes de la guardia. En casos de fuerza mayor, el jefe tiene la facultad de llamar al primero en la bolsa para cubrir una vacante.Finalmente, se abordan las condiciones para la reincorporación y los nuevos ingresos a las guardias. La reincorporación debe realizarse a principios de año, con restricciones para solicitudes fuera de este periodo. El ingreso de trabajadores con convenio Bidafarma-Málaga en los turnos de guardia se ajustará según la disponibilidad. Todas estas aclaraciones y normativas están disponibles de manera completa en el apartado de documentación.",
+    "fechaPublicacion": "29/01/2024"
+  }, 
 
     {
         "id": 2,

@@ -9,7 +9,7 @@ import './CSS/style.css'
 function App() {
   return (
     <Router>
-      <div className='banner'>
+      <div className='banner p-5'>
       <Navbar />
       <AppRoutes />
       <Footer />

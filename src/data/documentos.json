@@ -1,4 +1,44 @@
 [
+  {
+  "id": 7,
+  "titulo": "Calendario Oficial Vacaciones Operaciones 2024",
+  "resumen": "Calendario para la planificación de vacaciones del departamento de operaciones en 2024.",
+  "contenido": "Este calendario es una herramienta esencial para la planificación y gestión de las vacaciones del personal del departamento de operaciones en el año 2024, asegurando una organización eficiente del tiempo de descanso.",
+  "url": "assets/Calendario Oficial Vacaciones Operaciones 2024.pdf"
+}
+,
+  {
+  "id": 6,
+  "titulo": "Turnos guardias",
+  "resumen": "Documento que detalla los turnos de guardia.",
+  "contenido": "Este documento ofrece una descripción detallada y organizada de los turnos de guardia, incluyendo horarios y modalidades, para facilitar la gestión y comprensión de los turnos de guardia en la empresa.",
+  "url": "assets/Turnos guardias.pdf"
+}
+,
+  {
+  "id": 5,
+  "titulo": "Plantillas de Guardias 2024",
+  "resumen": "Plantillas detalladas para las guardias del año 2024.",
+  "contenido": "Este archivo incluye las plantillas diseñadas para las guardias del año 2024, ofreciendo un formato estructurado y claro para la asignación y seguimiento de las guardias en la empresa.",
+  "url": "assets/Plantillas de Guardias 2024.pdf"
+}
+,
+  {
+    "id": 4,
+    "titulo": "Calendario Oficial días sueltos 2024",
+    "resumen": "Calendario oficial para la gestión de días sueltos en el año 2024.",
+    "contenido": "Este documento proporciona el calendario oficial para la asignación y manejo de días sueltos durante el año 2024. Es esencial para la planificación y organización de los días de trabajo y descanso en la empresa.",
+    "url": "assets/Calendario Oficial días sueltos 2024.pdf"
+  },
+  
+  {
+    "id": 3,
+    "titulo": "ACLARACIÓN NORMAS GUARDIA COFARÁN 2024",
+    "resumen": "Detalles de las normas de guardia en COFARÁN para el año 2024, incluyendo procedimientos para bolsas de guardia, vacaciones, bajas, festivos, y condiciones para cambios de guardia.",
+    "contenido": "El documento 'ACLARACIÓN NORMAS GUARDIA COFARÁN 2024' especifica detalladamente las reglas y procedimientos para las guardias en COFARÁN para el año 2024. Incluye normativas rigurosas sobre la bolsa de guardia, estipulando que los trabajadores en la bolsa no pueden abandonarla hasta completar el ciclo y que los cambios de guardia asignados por bolsa no son permitidos, aunque se pueden ajustar los horarios. En cuanto a las vacaciones, se prohíbe realizar guardias durante este período, y cualquier cambio debe ser solicitado y aprobado con antelación. Para los trabajadores en baja, la suplencia se cubrirá desde la bolsa y no se permiten cambios de guardia durante este tiempo. Se establecen normativas específicas para los festivos y fines de semana, prohibiendo los cambios de guardia en festivos, pero permitiendo intercambios en los fines de semana manteniendo el mismo número de horas. Las guardias se publicarán con 10 días de anticipación, y los cambios son posibles hasta 8 días antes de la guardia. En casos de fuerza mayor, el jefe tiene la facultad de llamar al primero en la bolsa para cubrir una vacante. Finalmente, se abordan las condiciones para la reincorporación y los nuevos ingresos a las guardias.",
+    "url": "assets/ACLARACIÓN NORMAS GUARDIA COFARÁN 2024.docx"
+  },
+  
     {
         "id": 2,
         "titulo": "Convenio Colectivo Estatal para el Comercio de Distribuidores de Especialidades y Productos Farmacéuticos",
