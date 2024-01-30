@@ -6,12 +6,14 @@ const Footer = () => {
       <div
         className="text-center p-3"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
-      >
+      >Copyright 
         © {new Date().getFullYear()}
-          -Rt.malaga@bidafarma.es
-        <a className="text-dark" href="https://comitebidafarmamlg.netlify.app/">
-          {" "}
-          comitebidafarmamlg.netlify.app
+        <a href="mailto:Rt.malaga@bidafarma.es" className="text-dark">
+          Rt.malaga@bidafarma.es
+        </a>
+        <br />
+        <a className="text-dark" href="https://mediatek.es/">
+          Mediatek
         </a>
       </div>
     </footer>
@@ -19,3 +21,6 @@ const Footer = () => {
 };
 
 export default Footer;
+
+
+

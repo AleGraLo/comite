@@ -22,7 +22,9 @@ function SobreNosotros() {
       {/* Contacto o Llamada a la Acción */}
       <section className="card-title">
         <h2>Contáctanos</h2>
-        <p>Rt.malaga@bidafarma.es</p>
+        <a href="mailto:Rt.malaga@bidafarma.es" className="text-dark">
+          Rt.malaga@bidafarma.es
+        </a>
       </section>
     </div>
   );

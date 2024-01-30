@@ -1,34 +1,18 @@
-[  {
-  "id": 7,
-  "titulo": "Calendario Oficial Vacaciones Operaciones 2024",
-  "subtitulo": "Gestión de Vacaciones para el Departamento de Operaciones",
-  "textoCompleto": "El Calendario Oficial de Vacaciones Operaciones 2024 es una herramienta indispensable para la planificación y gestión de las vacaciones del personal del departamento de operaciones. Este calendario asegura una organización eficiente y equitativa del tiempo de descanso, contribuyendo a una mejor planificación de los recursos y necesidades de la empresa durante el año 2024.",
-  "fechaPublicacion": "29/01/2024"
-},
-{
-  "id": 6,
-  "titulo": "Turnos guardias",
-  "subtitulo": "Descripción Detallada de Turnos de Guardia",
-  "textoCompleto": "El documento 'Turnos guardias' ofrece una visión completa y organizada de los turnos de guardia, incluyendo horarios y modalidades. Esta información es vital para asegurar una comprensión clara y una gestión eficaz de los turnos de guardia en la empresa, proporcionando a todos los implicados un marco de referencia claro.",
-  "fechaPublicacion": "29/01/2024"
-},
+[  
 {
   "id": 5,
-  "titulo": "Plantillas de Guardias 2024",
-  "subtitulo": "Estructura Organizativa de Guardias para 2024",
-  "textoCompleto": "Las Plantillas de Guardias 2024 proporcionan un formato detallado y estructurado para la asignación y seguimiento de las guardias durante el año. Este documento es esencial para mantener una gestión clara y eficiente de las guardias en la empresa, permitiendo una planificación organizada y transparente.",
+  "titulo": "Próxima Ronda de Sugerencias para Reunión de PRL",
+  "subtitulo": "Recogida de Propuestas y Necesidades para la Mejora Continua",
+  "textoCompleto": "El próximo 30 de enero de 2023, nuestro compañero Alejandro Fernández estará recorriendo el almacén para recoger cualquier solicitud, necesidad o sugerencia que puedan tener nuestros compañeros y compañeras de cara a la próxima reunión de Prevención de Riesgos Laborales (PRL) que se celebrará el 16 de febrero de 2023. Esta es una excelente oportunidad para compartir sus pensamientos y propuestas que puedan contribuir a la mejora de nuestro entorno laboral. Además, queremos animar a todos los compañeros, especialmente al personal de oficinas y Call center, a que se acerquen a los compañeros Alejandra Granado, Cristina Hirschfeld y/o Manolo Castilla para transmitir sus solicitudes y contribuir al proceso de mejora continua. Es importante que todas las voces sean escuchadas y todas las sugerencias consideradas antes de la fecha de la reunión para asegurarnos de que estamos abordando todos los aspectos relevantes de nuestra seguridad y bienestar en el trabajo.",
+  "fechaPublicacion": "29/01/2023"
+},
+{
+  "id": 4,
+  "titulo": "Nueva Documentación Disponible en Bidafarma Málaga",
+  "subtitulo": "Acceda a las Últimas Actualizaciones y Recursos",
+  "textoCompleto": "Nos complace anunciar la reciente actualización de la sección de documentación en la página web de Bidafarma Málaga. Esta actualización incluye documentos cruciales para el año 2024, asegurando que todos los miembros del equipo tengan acceso a la información más actualizada y relevante para su trabajo y responsabilidades. Entre los documentos recién añadidos, encontrará el 'Calendario Oficial días sueltos 2024', las 'Plantillas de Guardias 2024', el documento detallado de 'Turnos guardias', y el 'Calendario Oficial Vacaciones Operaciones 2024'. Cada uno de estos documentos ha sido cuidadosamente preparado para facilitar la planificación, organización y gestión eficiente de las actividades laborales a lo largo del año. Invitamos a todos los empleados a revisar estos documentos para estar bien informados y preparados para los desafíos y oportunidades que el 2024 nos traerá.",
   "fechaPublicacion": "29/01/2024"
 },
-  {
-    "id": 4,
-    "titulo": "Calendario Oficial días sueltos 2024",
-    "subtitulo": "Planificación de Días Sueltos para el Año 2024",
-    "textoCompleto": "El Calendario Oficial de días sueltos 2024 es una herramienta crucial para la gestión y asignación de días sueltos en el año 2024. Este calendario facilitará la organización y planificación de los días de trabajo y descanso, asegurando una distribución equitativa y clara de los días no laborables.",
-    "fechaPublicacion": "29/01/2024"
-  },
-
-
-
 
   {
     "id": 3,
