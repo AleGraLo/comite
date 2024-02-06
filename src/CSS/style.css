@@ -16,6 +16,7 @@
 }
 
 .container {
+  max-width: 100%;
   padding-top: 70px; /* Ajusta esto al tamaño de tu navbar */
   padding-bottom: 70px; /* Ajusta esto al tamaño de tu footer */
   /* Otros estilos si son necesarios */
