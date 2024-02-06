@@ -27,7 +27,7 @@
   min-height: 300px; /* Altura mínima */
   max-height: 400px;
   overflow: auto; /* Oculta el contenido que exceda la altura máxima */
-  /* margin: 3px;  */
+  margin-bottom: 20px; 
   opacity: 90%;
 }
 .card-title{
