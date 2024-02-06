@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-light text-center text-lg-start fixed-bottom">
       <div
-        className="text-center p-3"
+        className="text-center p-1"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
       >Copyright 
         © {new Date().getFullYear()}
